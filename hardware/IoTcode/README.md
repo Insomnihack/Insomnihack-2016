@@ -1,8 +1,8 @@
 ## Infos
 
-**Author**: Britney
-**Category**: Hardware
-**Difficulty**: Medium
+**Author**: Britney  
+**Category**: Hardware  
+**Difficulty**: Medium  
 
 ## Description
 
