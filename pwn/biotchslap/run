@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/biotchslap
+socat tcp4-listen:1070,fork exec:"./qemu-aarch64 -nx -noaslr ./biotchslap"
